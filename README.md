@@ -148,7 +148,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=vedumeena01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="Stats Graph"/>
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vedumeena01&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vedumeena01&hide=html,css&langs_count=6&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages"/>
 </div>
 
 ---
