@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,21&height=220&section=header&text=Ved%20Prakash%20Meena&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20%26%20Applied%20AI%20Systems%20Engineer%20%7C%20IIIT%20Sonepat&descFontSize=18&descAlignY=58" width="100%"/>
+  <img src="https://raw.githubusercontent.com/vedumeena01/vedumeena01/main/assets/banner.svg" alt="Ved Prakash Meena - Software & Applied AI Systems Engineer" width="100%"/>
 
   <p align="center">
     <a href="https://vedumeena01.github.io"><img src="https://img.shields.io/badge/Portfolio-vedumeena01.github.io-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
